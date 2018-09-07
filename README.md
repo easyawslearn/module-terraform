@@ -1,1 +1,1 @@
-# module-terraform
+# terraform-module
