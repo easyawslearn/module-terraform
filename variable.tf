@@ -28,7 +28,7 @@ variable "max_receive_count" {
 }
 
 variable "owner" {
-  default     = "xgemail"
+  default     = "testing"
   description = "An owner tag to tag resources with."
 }
 
